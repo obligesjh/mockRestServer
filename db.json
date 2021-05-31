@@ -3,51 +3,60 @@
     {
       "id": "1",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/people_counter/PeopleCounter-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/people_counter.zip"
+      "zipUrl": "http://10.89.13.243:8000/poc/people_counter.zip",
+      "category": "Commercial"
     },
     {
       "id": "2",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959/OCD_MCD_235959-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959.zip"
+      "zipUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959.zip",
+      "category": "Commercial"
     },
     {
       "id": "3",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS/[sample]ScreenSaver_and_Menuboard_NYS-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS.zip"
+      "zipUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS.zip",
+      "category": "Education"
     }
   ],
   "poc-list-2": [
     {
       "id": "1",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/people_counter/PeopleCounter-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/people_counter.zip"
+      "zipUrl": "http://10.89.13.243:8000/poc/people_counter.zip",
+      "category": "Commercial"
     },
     {
       "id": "2",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959/OCD_MCD_235959-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959.zip"
+      "zipUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959.zip",
+      "category": "Commercial"
     },
     {
       "id": "3",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS/[sample]ScreenSaver_and_Menuboard_NYS-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS.zip"
+      "zipUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS.zip",
+      "category": "Education"
     }
   ],
   "poc-list-3": [
     {
       "id": "1",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/people_counter/PeopleCounter-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/people_counter.zip"
+      "zipUrl": "http://10.89.13.243:8000/poc/people_counter.zip",
+      "category": "Commercial"
     },
     {
       "id": "2",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959/OCD_MCD_235959-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959.zip"
+      "zipUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959.zip",
+      "category": "Commercial"
     },
     {
       "id": "3",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS/[sample]ScreenSaver_and_Menuboard_NYS-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS.zip"
+      "zipUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS.zip",
+      "category": "Education"
     }
   ]
 }
