@@ -16,46 +16,118 @@
       "id": "3",
       "thumbnailUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS/[sample]ScreenSaver_and_Menuboard_NYS-projectThumbnail.png",
       "zipUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS.zip",
+      "category": "Commercial"
+    },
+    {
+      "id": "4",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/triangle/triangle-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/triangle.zip",
+      "category": "Education"
+    },
+    {
+      "id": "5",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/PageTransitionAndMenuBoard/PageTransitionAndMenuboard-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/PageTransitionAndMenuBoard.zip",
+      "category": "Commercial"
+    },
+    {
+      "id": "6",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/timeTable/시간표1-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/timeTable.zip",
+      "category": "Education"
+    },
+    {
+      "id": "7",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/timeTable2/시간표2-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/timeTable2.zip",
+      "category": "Education"
+    },
+    {
+      "id": "8",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/menuBoard/menuboard - Author-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/menuBoard.zip",
+      "category": "Commercial"
+    },
+    {
+      "id": "9",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/menu11/menu-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/menu11.zip",
+      "category": "Commercial"
+    },
+    {
+      "id": "10",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/menu22/starbucks-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/menu22.zip",
+      "category": "Commercial"
+    },
+    {
+      "id": "11",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/notice/준비물1-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/notice.zip",
       "category": "Education"
     }
   ],
   "poc-list-2": [
     {
       "id": "1",
-      "thumbnailUrl": "http://10.89.13.243:8000/poc/people_counter/PeopleCounter-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/people_counter.zip",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/PageTransitionAndMenuBoard/PageTransitionAndMenuboard-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/PageTransitionAndMenuBoard.zip",
       "category": "Commercial"
     },
     {
       "id": "2",
-      "thumbnailUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959/OCD_MCD_235959-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959.zip",
-      "category": "Commercial"
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/timeTable/시간표1-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/timeTable.zip",
+      "category": "Education"
     },
     {
       "id": "3",
-      "thumbnailUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS/[sample]ScreenSaver_and_Menuboard_NYS-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS.zip",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/triangle/triangle-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/triangle.zip",
       "category": "Education"
+    },
+    {
+      "id": "4",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/menuBoard/menuboard - Author-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/menuBoard.zip",
+      "category": "Commercial"
     }
   ],
   "poc-list-3": [
     {
       "id": "1",
-      "thumbnailUrl": "http://10.89.13.243:8000/poc/people_counter/PeopleCounter-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/people_counter.zip",
-      "category": "Commercial"
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/timeTable/시간표1-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/timeTable.zip",
+      "category": "Education"
     },
     {
       "id": "2",
-      "thumbnailUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959/OCD_MCD_235959-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/OCD_MCD_235959.zip",
-      "category": "Commercial"
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/timeTable2/시간표2-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/timeTable2.zip",
+      "category": "Education"
     },
     {
       "id": "3",
-      "thumbnailUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS/[sample]ScreenSaver_and_Menuboard_NYS-projectThumbnail.png",
-      "zipUrl": "http://10.89.13.243:8000/poc/[sample]ScreenSaver_and_Menuboard_NYS.zip",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/menuBoard/menuboard - Author-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/menuBoard.zip",
+      "category": "Commercial"
+    },
+    {
+      "id": "4",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/menu11/menu-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/menu11.zip",
+      "category": "Commercial"
+    },
+    {
+      "id": "5",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/menu22/starbucks-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/menu22.zip",
+      "category": "Commercial"
+    },
+    {
+      "id": "6",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/triangle/triangle-projectThumbnail.png",
+      "zipUrl": "http://10.89.13.243:8000/poc/triangle.zip",
       "category": "Education"
     }
   ]
