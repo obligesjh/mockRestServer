@@ -150,7 +150,7 @@
     },
     {
       "id": "7",
-      "thumbnailUrl": "http://10.89.13.243:8000/poc/fashion/441-projectThumbnail.png.png",
+      "thumbnailUrl": "http://10.89.13.243:8000/poc/fashion/441-projectThumbnail.png",
       "zipUrl": "http://10.89.13.243:8000/poc/fashion.zip",
       "category": "Commercial"
     }
